@@ -1,6 +1,6 @@
 @CineTrack_HostAddress = http://localhost:5226
 
-GET {{CineTrack_HostAddress}}/weatherforecast/
+GET {{CineTrack_HostAddress}}/movies/
 Accept: application/json
 
 ###
